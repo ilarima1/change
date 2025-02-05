@@ -79,7 +79,7 @@ def apply_attack_and_exif(image_path, epsilon=0.02):
     return processed_path, location_name
 
 # 🟢 بوت تيليغرام
-TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"  # ضع التوكن هنا
+TOKEN = "8002960217:AAFlSygpkltYpMaJlQ_xkpc2e6TQpWydkwc"  # ضع التوكن هنا
 bot = Bot(token=TOKEN)
 app = Application.builder().token(TOKEN).build()
 
