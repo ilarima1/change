@@ -1,2 +1,2 @@
-python-telegram_bot
+python-telegram-bot
 torch
